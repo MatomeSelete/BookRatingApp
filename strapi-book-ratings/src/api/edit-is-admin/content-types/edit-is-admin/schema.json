@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "edit_is_admins",
+  "info": {
+    "singularName": "edit-is-admin",
+    "pluralName": "edit-is-admins",
+    "displayName": "Edit isAdmin"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "isAdmin": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
